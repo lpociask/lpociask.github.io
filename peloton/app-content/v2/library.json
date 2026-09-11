@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
-  "releaseID": "7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-  "generatedAt": "2026-09-11T10:42:27.883Z",
+  "releaseID": "55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+  "generatedAt": "2026-09-11T11:43:55.513Z",
   "publications": [
     {
       "id": "peloton",
@@ -23,7 +23,7 @@
           "chief": {
             "kicker": "REDAKTOR NACZELNY / PELOTON + ROWKI",
             "title": "Kierunek nadaje człowiek.",
-            "portrait": "https://lpociask.github.io/peloton/assets/editor-in-chief.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+            "portrait": "https://lpociask.github.io/peloton/assets/editor-in-chief.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
             "portraitAlt": "Ilustracyjny portret redaktora naczelnego Pelotonu i Rowków.",
             "description": "Tematy wyrastają z mojej ciekawości, doświadczenia i pytań, które sam chciałbym zadać światu roweru. To ja wybieram motyw numeru, zatwierdzam pomysły i tezy, redaguję materiały, decyduję o publikacji oraz piszę wszystkie wstępniaki. Pięciu agentów-redaktorów pomaga mi szukać źródeł, porównywać fakty, znajdować kontrargumenty i tworzyć pierwsze wersje tekstów. Czasem proponują własny trop, ale ostatnie słowo zawsze należy do mnie."
           },
@@ -39,7 +39,7 @@
               "number": "01",
               "name": "Maja Rosińska",
               "role": "ESEJ / KULTURA JAZDY",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-maja-rosinska.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-maja-rosinska.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Mai Rosińskiej, fikcyjnej eseistki Pelotonu.",
               "character": "Cicha, cięta obserwatorka. Rozbiera kolarskie rytuały na potrzebę, pozę i koszt, szczególnie gdy sport zaczyna udawać moralną wyższość.",
               "voice": "Zmysłowy konkret, powściągliwa ironia i puenta, która nie podnosi głosu. Nigdy nie fabrykuje własnego doświadczenia.",
@@ -51,7 +51,7 @@
               "number": "02",
               "name": "Tomasz Dąbek",
               "role": "TECHNIKA / WARSZTAT",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-tomasz-dabek.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-tomasz-dabek.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Tomasza Dąbka, fikcyjnego redaktora technicznego Pelotonu.",
               "character": "Mechanik-sceptyk. Zanim kupi kolejną butelkę albo powtórzy opinię z filmu, lokalizuje hałas, sprawdza tolerancję i pyta o warunki testu.",
               "voice": "Precyzyjny, suchy, praktyczny. Ośmiesza plemienne wojny sprzętowe, ale nigdy człowieka, który dopiero się uczy.",
@@ -63,7 +63,7 @@
               "number": "03",
               "name": "Nina Wierzbicka",
               "role": "DROGA / MIEJSCE",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-nina-wierzbicka.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-nina-wierzbicka.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Niny Wierzbickiej, fikcyjnej reporterki drogi Pelotonu.",
               "character": "Reporterka krajobrazu bez pocztówkowej ślepoty. Wie, że plik GPX nie jest pozwoleniem, a pusta dolina może być śladem czyjegoś wygnania.",
               "voice": "Obrazowy reportaż hamowany etyką miejsca. Najpierw nazwa, historia i prawo przejazdu; dopiero później zachwyt.",
@@ -75,7 +75,7 @@
               "number": "04",
               "name": "Karol Górski",
               "role": "SPORT / PORTRET",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-karol-gorski.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-karol-gorski.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Karola Górskiego, fikcyjnego analityka sportowego Pelotonu.",
               "character": "Analityk odporny na narodowe skróty i łatwe historie o zmarnowanych karierach. Interesuje go zadanie zawodnika, nie sama pozycja na mecie.",
               "voice": "Ostry kontrargument, czysta chronologia i zero trybu kariery z gry. Każdą prognozę datuje i oznacza jako prognozę.",
@@ -87,7 +87,7 @@
               "number": "05",
               "name": "Zofia Kurek",
               "role": "FOTOGRAFIA / ETYKA OBRAZU",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-zofia-kurek.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-zofia-kurek.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Zofii Kurek, fikcyjnej redaktorki fotografii Pelotonu.",
               "character": "Patrzy na kadr jak na decyzję, nie ozdobę. Broni prawa do trudnego obrazu, ale odróżnia świadectwo od eksploatowania cudzego bólu.",
               "voice": "Chłodna analiza obrazu, rytmu pracy i odpowiedzialności. Nie daje akredytacji pierwszeństwa przed godnością.",
@@ -105,7 +105,7 @@
           "chief": {
             "kicker": "EDITOR-IN-CHIEF / PELOTON + ROWKI",
             "title": "A human sets the direction.",
-            "portrait": "https://lpociask.github.io/peloton/assets/editor-in-chief.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+            "portrait": "https://lpociask.github.io/peloton/assets/editor-in-chief.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
             "portraitAlt": "Illustrated portrait of the editor-in-chief of Peloton and Rowki.",
             "description": "The stories grow out of my curiosity, experience and the questions I want to ask of cycling. I choose each issue’s theme, approve ideas and arguments, edit the stories, decide what gets published and write every editor’s letter. Five editorial agents help me find sources, compare facts, test counterarguments and produce first drafts. They sometimes suggest a lead of their own, but the final decision is always mine."
           },
@@ -121,7 +121,7 @@
               "number": "01",
               "name": "Maja Rosińska",
               "role": "ESSAY / RIDING CULTURE",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-maja-rosinska.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-maja-rosinska.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Maja Rosińska, a fictional Peloton essayist.",
               "character": "A quiet, cutting observer. She separates cycling ritual into need, performance and cost whenever sport begins to pose as moral superiority.",
               "voice": "Sensory detail, restrained irony and a conclusion that never needs to shout. She never invents lived experience.",
@@ -133,7 +133,7 @@
               "number": "02",
               "name": "Tomasz Dąbek",
               "role": "TECH / WORKSHOP",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-tomasz-dabek.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-tomasz-dabek.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Tomasz Dąbek, a fictional Peloton technical editor.",
               "character": "A mechanic and sceptic. Before buying another bottle or repeating a video claim, he locates the noise, checks the tolerance and asks about test conditions.",
               "voice": "Precise, dry and practical. He mocks equipment tribalism, never the rider who is still learning.",
@@ -145,7 +145,7 @@
               "number": "03",
               "name": "Nina Wierzbicka",
               "role": "ROAD / PLACE",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-nina-wierzbicka.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-nina-wierzbicka.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Nina Wierzbicka, a fictional Peloton road reporter.",
               "character": "A landscape reporter without postcard blindness. She knows a GPX file is not permission and an empty valley may be evidence of displacement.",
               "voice": "Vivid reporting restrained by the ethics of place. Name, history and access rights come before wonder.",
@@ -157,7 +157,7 @@
               "number": "04",
               "name": "Karol Górski",
               "role": "SPORT / PORTRAIT",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-karol-gorski.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-karol-gorski.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Karol Górski, a fictional Peloton sports analyst.",
               "character": "An analyst immune to patriotic shortcuts and easy stories about wasted careers. A rider’s job matters more than the finishing position alone.",
               "voice": "A sharp counterargument, clean chronology and no career-mode counterfactuals. Every forecast is dated and labelled.",
@@ -169,7 +169,7 @@
               "number": "05",
               "name": "Zofia Kurek",
               "role": "PHOTOGRAPHY / IMAGE ETHICS",
-              "portrait": "https://lpociask.github.io/peloton/assets/editor-zofia-kurek.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/assets/editor-zofia-kurek.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Zofia Kurek, a fictional Peloton photography editor.",
               "character": "She treats a frame as a decision, not decoration. She defends difficult images while separating witness from exploitation.",
               "voice": "Cool analysis of images, labour and responsibility. Accreditation never outranks dignity.",
@@ -179,14 +179,101 @@
           ]
         }
       },
+      "upcomingIssue": {
+        "id": "peloton-04",
+        "number": "04",
+        "dateTime": "2026-10",
+        "date": {
+          "pl": "PAŹDZIERNIK 2026",
+          "en": "OCTOBER 2026"
+        },
+        "title": {
+          "pl": "Vuelta. Wyścig otwarty",
+          "en": "Vuelta. The race opens up"
+        },
+        "teaser": {
+          "pl": "Miała należeć do Pogačara. Poważna kraksa przerwała jego start i zmieniła walkę o czerwoną koszulkę. Enric Mas staje przed wielką szansą, Jakob Omrzel przedstawia się światu, a Visma kolekcjonuje etapy. Pięć historii o Vuelcie, która musiała napisać swój scenariusz od nowa.",
+          "en": "It was supposed to be Pogačar’s race. A serious crash ended his Vuelta and transformed the battle for red. Enric Mas faces a major opportunity, Jakob Omrzel announces himself, and Visma keeps collecting stage wins. Five stories about a Vuelta whose script had to be rewritten."
+        },
+        "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-04-vuelta-pl.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+        "coverImages": {
+          "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-04-vuelta-pl.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+          "en": "https://lpociask.github.io/peloton/assets/peloton-cover-04-vuelta-en.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
+        },
+        "coverAlt": {
+          "pl": "Okładka Pelotonu numer 04: mały kolarz i wielkie kolorowe sylwetki tworzą warstwową kompozycję otoczoną hiszpańskimi barwami pustyni — piaskiem, ochrą i terakotą. Tytuł: Vuelta. Wyścig otwarty.",
+          "en": "Peloton issue 04 cover: a small cyclist and large colourful silhouettes form a layered composition surrounded by Spanish desert colours — sand, ochre and terracotta. Title: Vuelta. The race opens up."
+        },
+        "topics": [
+          {
+            "id": "mial-byc-jego-wyscig",
+            "title": {
+              "pl": "Miał być jego wyścig",
+              "en": "It was supposed to be his race"
+            },
+            "description": {
+              "pl": "Dramat Pogačara i chwila, w której od wyniku ważniejsze stało się zdrowie.",
+              "en": "Pogačar’s crash and the moment a sporting story became a question of health."
+            }
+          },
+          {
+            "id": "mas-teraz-albo-nigdy",
+            "title": {
+              "pl": "Mas. Teraz albo nigdy?",
+              "en": "Mas. Now or never?"
+            },
+            "description": {
+              "pl": "Portret Hiszpana, który wiezie czerwoną koszulkę i nadzieje całego kraju.",
+              "en": "A portrait of the Spaniard carrying the red jersey and a nation’s hopes."
+            }
+          },
+          {
+            "id": "najtrudniejszy-grand-tour",
+            "title": {
+              "pl": "Najtrudniejszy z wielkich tourów?",
+              "en": "The toughest Grand Tour?"
+            },
+            "description": {
+              "pl": "Co czyni Vueltę tak wymagającą — i jak uczciwie porównać ją z Giro oraz Tourem.",
+              "en": "What makes the Vuelta so demanding, and how to compare it fairly with the Giro and the Tour."
+            }
+          },
+          {
+            "id": "nazywam-sie-omrzel",
+            "title": {
+              "pl": "Nazywam się Omrzel",
+              "en": "My name is Omrzel"
+            },
+            "description": {
+              "pl": "Młody Słoweniec szuka własnego miejsca w cieniu wielkich porównań.",
+              "en": "A young Slovenian talent finding his own place under the weight of comparison."
+            }
+          },
+          {
+            "id": "visma-bierze-swoje",
+            "title": {
+              "pl": "Visma bierze swoje",
+              "en": "Visma takes its chances"
+            },
+            "description": {
+              "pl": "Brennan, Van Aert i zespół, który zamienia wspólną pracę w etapowe zwycięstwa.",
+              "en": "Brennan, Van Aert and a team turning its work into stage victories."
+            }
+          }
+        ],
+        "previewNote": {
+          "pl": "Zapowiedź z 11 września 2026, po 18. etapie Vuelty. Pełny numer w październiku.",
+          "en": "Preview prepared on 11 September 2026, after Vuelta stage 18. Full issue in October."
+        }
+      },
       "issues": [
         {
           "id": "peloton-03",
           "number": "03",
-          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-pl.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-pl.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-pl.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-en.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-pl.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-03-polskie-kolarstwo-kobiet-en.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 68,
@@ -208,8 +295,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Portret",
@@ -302,7 +389,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Widok z góry na dwie kolarki wybierające różne linie wokół dziury na łuku szosy; przy krawędzi leży osiem żółtych znaków i zerwana żółta wstęga.",
                         "caption": "Sporna scena nie odsłoniła intencji. Pokazała tylko skutek: jedna linia się otworzyła, druga na moment zniknęła przy krawędzi drogi.",
                         "credit": "ILUSTRACJA — STUDIO PELOTON / NUMER 03",
@@ -365,7 +452,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Katarzyna Niewiadoma w żółtej koszulce liderki podczas Tour de France Femmes 2024, jadąca w peletonie.",
                         "caption": "Archiwalny kadr z Touru 2024: Kasia w żółtej koszulce, zanim kolejne lata znów sprowadziły jej rywalizację z Demi do sekund.",
                         "credit": "FOT. JRPOL / WIKIMEDIA COMMONS · ZMIANA ROZMIARU: PELOTON · CC BY-SA 4.0",
@@ -548,7 +635,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An overhead view of two riders choosing different lines around a pothole on a curved road, with eight yellow marks and a torn yellow ribbon at the edge.",
                         "caption": "The disputed scene did not reveal intent. It showed only the effect: one line opened while the other briefly disappeared at the road edge.",
                         "credit": "ILLUSTRATION — PELOTON STUDIO / ISSUE 03",
@@ -611,7 +698,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-osiem-sekund-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Katarzyna Niewiadoma rides in the yellow leader's jersey in the 2024 Tour de France Femmes peloton.",
                         "caption": "An archival frame from the 2024 Tour: Kasia in yellow, before later editions once again reduced her rivalry with Demi to seconds.",
                         "credit": "PHOTO: JRPOL / WIKIMEDIA COMMONS · RESIZED BY PELOTON · CC BY-SA 4.0",
@@ -712,8 +799,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Drużyna",
@@ -780,7 +867,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Widok z góry na górską mapę, trzy figurki kolarek ustawione na osobnych biało-czerwonych kartach oraz dłonie trzymające radio i przesuwające środkową zawodniczkę.",
                         "caption": "Wieloliderowość wygląda elegancko na mapie. Jej prawdziwy test zaczyna się wtedy, gdy samochód musi przesunąć jedną kartę przed pozostałe.",
                         "credit": "ILUSTRACJA — STUDIO PELOTON / NUMER 03",
@@ -869,7 +956,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dominika Włodarczyk przekracza linię mety drugiego etapu Tour Féminin des Pyrénées 2026 w stroju UAE Team ADQ.",
                         "caption": "Dominika na mecie w Pirenejach w czerwcu 2026 roku. To dokument zawodniczki i stroju UAE Team ADQ spoza Tour de France Femmes.",
                         "credit": "FOT. HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMIANA: SKALOWANIE I REKOMPRESJA",
@@ -1006,7 +1093,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An overhead view of a mountain map, three rider figurines on separate red-and-white cards and hands holding a team radio and moving the central rider.",
                         "caption": "Multi-leadership looks elegant on a map. Its real test begins when the team car has to move one card ahead of the others.",
                         "credit": "ILLUSTRATION — PELOTON STUDIO / ISSUE 03",
@@ -1095,7 +1182,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-liderka-bez-jednego-numeru-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dominika Włodarczyk crosses the finish line of stage 2 at the 2026 Tour Féminin des Pyrénées in UAE Team ADQ kit.",
                         "caption": "Dominika at the finish in the Pyrenees in June 2026. This documents the rider and her UAE Team ADQ kit outside the Tour de France Femmes.",
                         "credit": "PHOTO: HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · MODIFIED: RESIZED AND RECOMPRESSED",
@@ -1176,8 +1263,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Sylwetki",
@@ -1246,7 +1333,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Rysunkowy francuski krajobraz z wieloma przecinającymi się czerwonymi, białymi, granatowymi i żółtymi drogami, po których jadą kolarki o różnych zadaniach.",
                         "caption": "Pięć polskich historii przecina większą sieć zespołów i ról. Im dalej od podium, tym mniej sama cyfra mówi o pracy wykonanej dla innych.",
                         "credit": "ILUSTRACJA — STUDIO PELOTON / NUMER 03",
@@ -1304,7 +1391,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Marta Jaskulska, Marta Lach i Agnieszka Skalniak-Sójka jadą drużynową sztafetę mieszaną mistrzostw świata 2023 w Glasgow.",
                         "caption": "Archiwalny obraz polskiej elity: Jaskulska, Lach i Skalniak-Sójka pracują w jednej zmianie podczas MŚ 2023. To nie jest kadr z Touru 2026 ani portret całej obecnej piątki.",
                         "credit": "FOT. CS-WOLVES / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMIANA: SKALOWANIE I REKOMPRESJA",
@@ -1465,7 +1552,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A hand-drawn French landscape crossed by red, white, navy and yellow roads, with riders performing different jobs across the network.",
                         "caption": "Five Polish stories cross a wider network of teams and roles. The farther from the podium, the less a number alone can say about work done for somebody else.",
                         "credit": "ILLUSTRATION — PELOTON STUDIO / ISSUE 03",
@@ -1523,7 +1610,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-piec-roznych-tourow-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Marta Jaskulska, Marta Lach and Agnieszka Skalniak-Sójka ride the mixed team relay at the 2023 UCI Road World Championships in Glasgow.",
                         "caption": "An archival image of Poland’s elite: Jaskulska, Lach and Skalniak-Sójka share one relay effort at the 2023 Worlds. This is neither a 2026 Tour image nor a portrait of all five current riders.",
                         "credit": "PHOTO: CS-WOLVES / WIKIMEDIA COMMONS · CC BY-SA 4.0 · MODIFIED: RESIZED AND RECOMPRESSED",
@@ -1626,8 +1713,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Rywalizacja",
@@ -1690,7 +1777,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Trzy granatowe koła i trzy koralowo-żółte słońca splatają się z biało-czerwoną liną obok słuchawki radiowej i konturu góry.",
                         "caption": "Trzy etapowe zwycięstwa tworzą maszynę. Biało-czerwona lina potrafi ją odkształcić, lecz w Nicei nie zdołała jej zatrzymać.",
                         "credit": "ILUSTRACJA — STUDIO PELOTON / NUMER 03",
@@ -1763,7 +1850,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Demi Vollering i Anna van der Breggen czekają w gęstym peletonie na start Liège–Bastogne–Liège Femmes 2026.",
                         "caption": "Demi w koszulce mistrzyni Europy przed Liège–Bastogne–Liège 2026. To dokument z wiosny, nie kadr z Tour de France Femmes.",
                         "credit": "FOT. HOEBELE / WIKIMEDIA COMMONS · ZMIANA ROZMIARU: PELOTON · CC BY-SA 4.0",
@@ -1923,7 +2010,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Three navy wheels and three coral-and-yellow suns interlock with a red-and-white rope beside a radio earpiece and mountain contour.",
                         "caption": "Three stage wins form a machine. The red-and-white rope can bend it, but in Nice it could not stop it.",
                         "credit": "ILLUSTRATION — PELOTON STUDIO / ISSUE 03",
@@ -1996,7 +2083,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-krolowa-bez-alibi-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Demi Vollering and Anna van der Breggen wait in a dense peloton at the start of the 2026 Liège–Bastogne–Liège Femmes.",
                         "caption": "Demi in the European champion's jersey before Liège–Bastogne–Liège 2026. This is a spring document, not a Tour de France Femmes frame.",
                         "credit": "PHOTO: HOEBELE / WIKIMEDIA COMMONS · RESIZED BY PELOTON · CC BY-SA 4.0",
@@ -2104,8 +2191,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Media",
@@ -2172,7 +2259,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Żółto-koralowa i granatowa wstęga transmisji biegną równolegle przez oczy, telefony i sylwetki kibiców; krótsza wstęga rośnie ponad linię średniej.",
                         "caption": "W danych France Télévisions kobiecy Tour nie był większy w całości. Jego finał przekroczył jednak średnią opublikowaną dla popołudniowych pasm męskiego wyścigu.",
                         "credit": "ILUSTRACJA — STUDIO PELOTON / NUMER 03",
@@ -2248,7 +2335,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Peleton Tour de France Femmes 2026 jedzie zwartą grupą tuż za kilometrem zero siódmego etapu w Loriol-sur-Drôme.",
                         "caption": "Tour de France Femmes 2026, etap 7: za kilometrem zero opowieść przestaje być niszą i rusza pełną szerokością szosy.",
                         "credit": "FOT. KAKOULA10 / WIKIMEDIA COMMONS · ZMIANA ROZMIARU: PELOTON · CC BY-SA 4.0",
@@ -2378,7 +2465,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Yellow-coral and navy broadcast ribbons run through eyes, phones and crowd silhouettes, with the shorter ribbon rising above an average line at its finish.",
                         "caption": "In France Télévisions' figures, the women's Tour was not larger overall. Its finale nevertheless exceeded the published average for the men's Tour afternoon windows.",
                         "credit": "ILLUSTRATION — PELOTON STUDIO / ISSUE 03",
@@ -2454,7 +2541,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-03-przebily-wymowki-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "The 2026 Tour de France Femmes peloton rides in a compact group just beyond kilometre zero of stage 7 in Loriol-sur-Drôme.",
                         "caption": "Tour de France Femmes 2026, stage 7: beyond kilometre zero, the story stops being a niche and occupies the full width of the road.",
                         "credit": "PHOTO: KAKOULA10 / WIKIMEDIA COMMONS · RESIZED BY PELOTON · CC BY-SA 4.0",
@@ -2526,10 +2613,10 @@
         {
           "id": "peloton-02",
           "number": "02",
-          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-02-po-tourze-option-3.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-02-po-tourze-option-3.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-02-po-tourze-option-3.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-02-after-tour-en.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-02-po-tourze-option-3.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-02-after-tour-en.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 69,
@@ -2551,8 +2638,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Portret",
@@ -2595,7 +2682,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Abstrakcyjna żółta forma rozdziela się na kilka kanałów i przekazuje energię mniejszym perłowym obiektom.",
                         "caption": "Lider nie znika, kiedy pracuje dla innych. Na chwilę zmienia tylko kierunek przepływu energii.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -2653,7 +2740,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Tadej Pogačar w żółtej koszulce obok Isaaca del Toro w białej koszulce na starcie siedemnastego etapu Tour de France 2026.",
                         "caption": "Tadej Pogačar i Isaac del Toro na starcie 17. etapu Touru 2026 w Chambéry. Lider i młodszy kolega stoją obok siebie jeszcze przed alpejskim odwróceniem ról.",
                         "credit": "FOT. FLORIAN PÉPELLIN / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMNIEJSZONO",
@@ -2713,7 +2800,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Abstrakcyjna żółta forma wchodzi w czerwony, lepki labirynt przypominający górską trasę.",
                         "caption": "Po żółtym lipcu przychodzi czerwony sierpień. Vuelta nie jest dopiskiem do Touru, lecz kolejnym pełnym rachunkiem.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -2838,7 +2925,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An abstract yellow form divides into several channels and transfers energy to smaller pearlescent objects.",
                         "caption": "A leader does not disappear when he works for others. For a moment, the energy simply flows in the opposite direction.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -2896,7 +2983,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Tadej Pogačar in yellow beside Isaac del Toro in white at the start of stage 17 of the 2026 Tour de France.",
                         "caption": "Tadej Pogačar and Isaac del Toro at the start of stage 17 of the 2026 Tour in Chambéry. Leader and younger teammate stand together before their roles are reversed in the Alps.",
                         "credit": "PHOTO: FLORIAN PÉPELLIN / WIKIMEDIA COMMONS · CC BY-SA 4.0 · RESIZED",
@@ -2956,7 +3043,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zolty-gregario-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An abstract yellow form enters a sticky red maze resembling a mountain route.",
                         "caption": "A yellow July gives way to a red August. The Vuelta is not an appendix to the Tour but another complete reckoning.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -3049,8 +3136,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Taktyka",
@@ -3093,7 +3180,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Zielone szklane punkty balansują na stromej, półprzezroczystej konstrukcji.",
                         "caption": "Punkty nie pamiętają stylu. Zostają tam, gdzie zawodnik zdołał po nie dojechać.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -3151,7 +3238,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mads Pedersen w zielonej koszulce jedzie obok Victora Campenaertsa na Côte de Loucrup podczas szóstego etapu Tour de France 2026.",
                         "caption": "Mads Pedersen w zielonej obok Victora Campenaertsa na Côte de Loucrup, etap 6 Touru 2026. Klasyfikację punktową widać tutaj jako pracę wykonywaną także pod górę.",
                         "credit": "FOT. HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMNIEJSZONO",
@@ -3225,7 +3312,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Ściśnięta szmaragdowa forma uwalnia energię pomiędzy różowymi szczytami.",
                         "caption": "Sprinter przechowuje finisz przez całe góry. Uwalnia go dopiero wtedy, gdy inni uznają, że już go nie ma.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -3327,7 +3414,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Green glass points balance on a steep translucent structure.",
                         "caption": "Points do not remember style. They remain wherever a rider managed to reach them.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -3385,7 +3472,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mads Pedersen in green rides beside Victor Campenaerts on the Côte de Loucrup during stage 6 of the 2026 Tour de France.",
                         "caption": "Mads Pedersen in green beside Victor Campenaerts on the Côte de Loucrup, stage 6 of the 2026 Tour. Here the points classification is visibly work performed uphill as well.",
                         "credit": "PHOTO: HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · RESIZED",
@@ -3459,7 +3546,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-zielone-pod-gore-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A compressed emerald form releases energy between pink peaks.",
                         "caption": "A sprinter stores his finish throughout the mountains and releases it only when others assume it has gone.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -3529,8 +3616,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Sport",
@@ -3572,7 +3659,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Czerwone szklane punkty przeskakują po półprzezroczystej serpentynie między perłowymi szczytami.",
                         "caption": "Punkty tworzą własną linię wyścigu. Nie zawsze prowadzi ona najkrótszą drogą do Paryża.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -3627,7 +3714,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Richard Carapaz w koszulce w grochy i z numerem 41 jedzie rue Saint-Éleuthère podczas ostatniego etapu Tour de France 2026.",
                         "caption": "Richard Carapaz na rue Saint-Éleuthère, etap 21 Touru 2026. Grochowa koszulka wyjeżdża do Paryża przez szpaler kibiców ubranych w ten sam motyw.",
                         "credit": "FOT. CHABE01 / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMNIEJSZONO",
@@ -3699,7 +3786,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Perłowa skorupa w grochy pęka, odsłaniając półprzezroczysty górski szczyt.",
                         "caption": "Koszulka nie chroni przed ryzykiem. Ma jedynie pokazać, kto najczęściej odważył się wejść w góry pierwszy.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -3816,7 +3903,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Red glass points leap along a translucent switchback between pearly summits.",
                         "caption": "Points draw their own line through the race. It is not always the shortest road to Paris.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -3871,7 +3958,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Richard Carapaz in the polka-dot jersey and race number 41 rides along rue Saint-Éleuthère during the final stage of the 2026 Tour de France.",
                         "caption": "Richard Carapaz on rue Saint-Éleuthère, stage 21 of the 2026 Tour. The polka-dot jersey reaches Paris through a corridor of supporters dressed in the same motif.",
                         "credit": "PHOTO: CHABE01 / WIKIMEDIA COMMONS · CC BY-SA 4.0 · RESIZED",
@@ -3943,7 +4030,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-krol-gor-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A pearly polka-dot shell cracks open to reveal a translucent mountain summit.",
                         "caption": "The jersey offers no protection from risk. It merely shows who most often dared to enter the mountains first.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -4029,8 +4116,8 @@
                 "pl": 15,
                 "en": 15
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Portret",
@@ -4071,7 +4158,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Chromowana wskazówka przecina granatowy krajobraz pod opalizującą obręczą.",
                         "caption": "Stoper nie pyta, czy wynik był wielki. Pokazuje tylko odległość od wyniku, którego zawodnik chciał.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -4122,7 +4209,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Remco Evenepoel podczas jazdy indywidualnej na czas na szesnastym etapie Tour de France 2026.",
                         "caption": "Remco Evenepoel w tęczowej koszulce podczas czasówki Évian-les-Bains–Thonon-les-Bains, etap 16 Touru 2026. Tu ambicja ma mierzalną postać: ciało, maszyna i sekundy.",
                         "credit": "FOT. DENISMENCHOV08 / WIKIMEDIA COMMONS · CC BY-SA 4.0 · KONWERSJA FORMATU",
@@ -4199,7 +4286,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pęknięta srebrna kula przesuwa się poza swoją idealną, opalizującą orbitę.",
                         "caption": "Perfekcja jest punktem odniesienia, nie miejscem zamieszkania. Problem zaczyna się wtedy, gdy rachunek za dystans płacą inni.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -4311,7 +4398,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A chrome hand cuts across a navy landscape beneath an iridescent ring.",
                         "caption": "The clock does not ask whether a result was great. It shows only the distance from the result the rider wanted.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -4362,7 +4449,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Remco Evenepoel during the individual time trial on stage 16 of the 2026 Tour de France.",
                         "caption": "Remco Evenepoel in the rainbow skinsuit during the Évian-les-Bains–Thonon-les-Bains time trial, stage 16 of the 2026 Tour. Here ambition is measurable: body, machine and seconds.",
                         "credit": "PHOTO: DENISMENCHOV08 / WIKIMEDIA COMMONS · CC BY-SA 4.0 · FORMAT CONVERTED",
@@ -4439,7 +4526,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-drugi-to-porazka-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A fractured silver sphere shifts beyond its perfect iridescent orbit.",
                         "caption": "Perfection is a reference point, not a place to live. The problem begins when other people pay the price for the distance.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -4521,8 +4608,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-abstract-v1.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-abstract-v1.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Finał / Obraz",
@@ -4565,7 +4652,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Czarna lepka wstęga z tęczową krawędzią wykonuje gwałtowny zakręt nad szklistą fakturą bruku.",
                         "caption": "Atak jest zmianą geometrii. Nagle droga, która należała do całej grupy, mieści tylko jedną linię.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -4623,7 +4710,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mathieu van der Poel podczas prezentacji piątego etapu Tour de France 2026 w Lannemezan.",
                         "caption": "Mathieu van der Poel przed 5. etapem Tour de France 2026 w Lannemezan. Prawdziwy bohater pozostaje dokumentem — twarz i sylwetka nie zostały wygenerowane.",
                         "credit": "FOT. HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · ZMNIEJSZONO",
@@ -4662,7 +4749,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Żółta i czarna fala zderzają się przed świetlistą linią, wypuszczając cienkie iryzujące włókno.",
                         "caption": "Piękny finisz nie potrzebuje dużej przewagi. Potrzebuje sekundy, w której wynik nadal może należeć do kogoś innego.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -4801,7 +4888,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-01.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-01.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A black viscous ribbon with an iridescent edge takes a violent bend above a glass-like cobbled texture.",
                         "caption": "An attack changes the geometry. A road that belonged to the whole group suddenly holds only one line.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -4859,7 +4946,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-rider-2026.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-rider-2026.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mathieu van der Poel during the presentation for stage 5 of the 2026 Tour de France in Lannemezan.",
                         "caption": "Mathieu van der Poel before stage 5 of the 2026 Tour de France in Lannemezan. The real rider remains documentary — neither face nor body has been generated.",
                         "credit": "PHOTO: HUGO LUC / WIKIMEDIA COMMONS · CC BY-SA 4.0 · RESIZED",
@@ -4898,7 +4985,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-02.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-02-ostatni-kadr-inline-02.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Yellow and black waves collide before a luminous line and release a thin iridescent filament.",
                         "caption": "A beautiful finish does not need a large advantage. It needs one second in which the result could still belong to someone else.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -5003,10 +5090,10 @@
         {
           "id": "peloton-01",
           "number": "01",
-          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/assets/peloton-cover-art.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 67,
@@ -5028,8 +5115,8 @@
                 "pl": 12,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-story-dawn.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-story-dawn.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-story-dawn.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-story-dawn.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Rytuał",
@@ -5078,7 +5165,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-city-lights.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-city-lights.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Samotny kolarz przejeżdża przez puste skrzyżowanie odbijające światła na mokrym asfalcie.",
                         "caption": "Miasto przed pierwszym tramwajem. Sygnalizacja odmienia kolory dla prawie pustych ulic.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -5141,7 +5228,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-turnaround-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-turnaround-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Zmęczony kolarz siedzi o świcie na ławce pustego przystanku, a obok stoi jego szosowy rower.",
                         "caption": "Nie każdy poranek trzeba wygrać. Czasem dojrzałą decyzją treningową jest zawrócić.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -5266,7 +5353,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-city-lights.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-city-lights.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A lone cyclist crosses an empty junction, its lights reflected on wet tarmac.",
                         "caption": "The city before its first tram. Traffic lights change for streets that are almost empty.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -5329,7 +5416,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-turnaround-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-dawn-turnaround-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A tired cyclist sits on the bench of an empty bus stop at dawn, his road bike beside him.",
                         "caption": "Not every morning has to be won. Sometimes turning back is the mature training decision.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -5416,8 +5503,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-listening-hero-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-listening-hero-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-listening-hero-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-listening-hero-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Technika",
@@ -5461,7 +5548,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-workshop.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-workshop.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dłonie mechanika pracują przy monumentalnym łańcuchu i kasecie rowerowej.",
                         "caption": "Diagnoza zaczyna się od słuchania. Klucz pojawia się dopiero wtedy, gdy dźwięk ma już adres.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -5557,7 +5644,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-road-test-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-road-test-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kolarz sprawdza pracę napędu po mokrej jeździe, stojąc z rowerem w otwartych drzwiach warsztatu.",
                         "caption": "Regulację potwierdza droga. Napęd ma być cichy także pod obciążeniem i po deszczu.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -5647,7 +5734,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-workshop.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-workshop.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A mechanic's hands work on a monumental bicycle chain and cassette.",
                         "caption": "Diagnosis begins with listening. The spanner appears only once the sound has an address.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -5743,7 +5830,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-road-test-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-drivetrain-road-test-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A cyclist checks the drivetrain after a wet ride while standing with the bicycle in an open workshop doorway.",
                         "caption": "The road confirms the adjustment. A drivetrain should remain quiet under load and after rain.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -5800,8 +5887,8 @@
                 "pl": 14,
                 "en": 14
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-gravel-threshold-hero-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-gravel-threshold-hero-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-gravel-threshold-hero-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-gravel-threshold-hero-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Droga",
@@ -5893,7 +5980,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-gravel-valley.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-gravel-valley.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mały kolarz jedzie szutrową serpentyną przez monumentalną dolinę pod deszczowymi chmurami.",
                         "caption": "W dolinie skala się odwraca: człowiek jest punktem, a droga — długim zdaniem bez kropki.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -5940,7 +6027,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-beskid-memory-after-rain-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-beskid-memory-after-rain-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kolarz stoi przy mokrej beskidzkiej drodze obok starego sadu, kamiennych fundamentów i przydrożnego krzyża.",
                         "caption": "Beskid Niski. To nie jest pusta dolina: sad, fundament i krzyż przechowują cudzą obecność.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6072,7 +6159,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-gravel-valley.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-gravel-valley.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A small cyclist follows a winding gravel road through a monumental valley beneath rain clouds.",
                         "caption": "In the valley, scale reverses: the human becomes a point and the road—a long sentence without a full stop.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -6119,7 +6206,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-beskid-memory-after-rain-v2.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-beskid-memory-after-rain-v2.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A cyclist stands beside a wet Beskid road near an old orchard, stone foundations and a wayside cross.",
                         "caption": "The Low Beskids. This is not an empty valley: an orchard, a foundation and a cross preserve somebody else's presence.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -6170,8 +6257,8 @@
                 "pl": 15,
                 "en": 15
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-portrait.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-portrait.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-portrait.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-portrait.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Portret",
@@ -6304,7 +6391,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-home.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-home.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kolarskie buty przy drzwiach, rodzinny stół i dziecięcy rysunek roweru w ciepłym świetle.",
                         "caption": "Dom nie jest przeciwieństwem kariery. To miejsce, z którego wielotygodniowe wyjazdy otrzymują sens.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6339,7 +6426,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-warsaw-veloart.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-warsaw-veloart.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Duża grupa amatorów jedzie za liderem z Warszawy w stronę Kampinosu.",
                         "caption": "Maj 2015. Ponad pięciuset rowerzystów ruszyło z warszawskiego Veloartu w stronę Kampinosu.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6362,7 +6449,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-polish-fans.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-polish-fans.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kolarz przejeżdża pomiędzy polskimi kibicami na górskiej drodze.",
                         "caption": "Kilka sekund przy barierce może zostać z zawodnikiem dłużej niż niejeden wynik.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6565,7 +6652,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-home.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-home.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Cycling shoes by the door, a family table and a child’s drawing of a bicycle in warm light.",
                         "caption": "Home is not the opposite of a career. It is the place that gives meaning to weeks spent away.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -6600,7 +6687,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-warsaw-veloart.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-warsaw-veloart.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A large group of amateur riders follows its leader from Warsaw towards Kampinos.",
                         "caption": "May 2015. More than five hundred cyclists set off from Warsaw’s Veloart towards Kampinos.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -6623,7 +6710,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-polish-fans.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-kwiatkowski-polish-fans.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A cyclist rides between Polish supporters on a mountain road.",
                         "caption": "A few seconds beside the barriers can stay with a rider longer than many a result.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -6704,8 +6791,8 @@
                 "pl": 13,
                 "en": 13
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-photographer-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-photographer-hero.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/assets/peloton-photographer-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/assets/peloton-photographer-hero.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "Fotografia",
@@ -6776,7 +6863,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-motor.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-motor.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Fotograf pracujący z motocykla obok rozpędzonego peletonu.",
                         "caption": "Mapa, regulatorzy i zaufanie kierowcy motocykla tworzą niewidoczne zaplecze każdego kadru z wnętrza wyścigu.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6871,7 +6958,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-after-race.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-after-race.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Samotny fotograf przeglądający materiał po zakończeniu etapu kolarskiego.",
                         "caption": "Po mecie kończy się jazda, lecz trwa selekcja obrazów, ich opisanie i budowanie pamięci wyścigu.",
                         "credit": "ILUSTRACJA — 5×12 STUDIO / OPENAI",
@@ -6993,7 +7080,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-motor.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-motor.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A photographer working from a motorcycle beside the speeding peloton.",
                         "caption": "The map, race regulators and trust in the motorcycle pilot form the invisible machinery behind every frame made inside the race.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -7088,7 +7175,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-after-race.webp?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/assets/peloton-photographer-after-race.webp?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A lone photographer reviewing his work after a cycling stage has ended.",
                         "caption": "The riding ends at the finish, but selecting and captioning images—and constructing the race’s memory—continues.",
                         "credit": "ILLUSTRATION — 5×12 STUDIO / OPENAI",
@@ -7167,7 +7254,7 @@
           "chief": {
             "kicker": "REDAKTOR NACZELNY / ROWKI + PELOTON",
             "title": "Kierunek nadaje człowiek.",
-            "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-in-chief.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+            "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-in-chief.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
             "portraitAlt": "Ilustracyjny portret redaktora naczelnego Rowków i Pelotonu.",
             "description": "Tematy zaczynają się od tego, czego sam chcę posłuchać, sprawdzić albo podważyć. To ja wybieram motyw numeru, zatwierdzam pomysły i tezy, redaguję materiały, decyduję o publikacji oraz piszę wszystkie wstępniaki. Pięciu agentów-redaktorów pomaga mi przeglądać źródła, dane, dyskografie i spory społeczności, a potem układać z nich pierwsze wersje tekstów. Czasem proponują własny trop, ale ostatnie słowo zawsze należy do mnie."
           },
@@ -7183,7 +7270,7 @@
               "number": "01",
               "name": "Jan Urbaniak",
               "role": "SPRZĘT / HISTORIA",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-jan-urbaniak.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-jan-urbaniak.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Jana Urbaniaka, fikcyjnego redaktora sprzętowego Rowków.",
               "character": "Inżynier, który nie myli metki z parametrem. Rozkręca legendy na patenty, mechanikę i warunki użytkowania.",
               "voice": "Techniczny konkret, suchy dowcip i alergia na przymiotnik „audiofilski”, jeśli nie stoi za nim mechanizm albo pomiar.",
@@ -7195,7 +7282,7 @@
               "number": "02",
               "name": "Marta Sobczak",
               "role": "RYNEK / TŁOCZNIE",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-marta-sobczak.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-marta-sobczak.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Marty Sobczak, fikcyjnej reporterki rynku muzycznego Rowków.",
               "character": "Idzie za pieniędzmi, kolejką w tłoczni i odsetkiem reklamacji. Renesans winylu mierzy nie tylko sprzedażą, lecz także jakością i ceną błędu.",
               "voice": "Chłodna liczba spotyka obserwację kultury. Rozcina nostalgię, ale nie szydzi z potrzeby posiadania rzeczy.",
@@ -7207,7 +7294,7 @@
               "number": "03",
               "name": "Paweł Rzepecki",
               "role": "SŁUCHANIE / FORMA ALBUMU",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-pawel-rzepecki.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-pawel-rzepecki.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Pawła Rzepeckiego, fikcyjnego krytyka muzycznego Rowków.",
               "character": "Formalista bez cierpliwości do pustej wirtuozerii. Pyta, co dana minuta robi z napięciem albumu, a nie ilu nut wymagała.",
               "voice": "Gęsty, rytmiczny esej oparty na bliskim słuchaniu. Każdy przymiotnik musi wskazać słyszalny moment.",
@@ -7219,7 +7306,7 @@
               "number": "04",
               "name": "Anna Krawczyk",
               "role": "ARTYŚCI / SCENA",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-anna-krawczyk.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-anna-krawczyk.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Anny Krawczyk, fikcyjnej autorki portretów muzycznych Rowków.",
               "character": "Nie pisze nekrologów na zamówienie fandomu. Bada, co w zespole było nazwą, co układem prawnym, a co realnym organizmem twórczym.",
               "voice": "Twarda chronologia, uważny cytat i odważna teza wyraźnie oznaczona jako teza. Bez PR-owego znieczulenia.",
@@ -7231,7 +7318,7 @@
               "number": "05",
               "name": "Zofia Lewicka",
               "role": "MIASTO / SKLEPY",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-zofia-lewicka.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-zofia-lewicka.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Ilustracyjny portret Zofii Lewickiej, fikcyjnej miejskiej reporterki Rowków.",
               "character": "Crate-diggerka z odruchem fact-checkera. Dobry sklep poznaje po uczciwej ocenie płyty, nie po ścianie rzadkich okładek.",
               "voice": "Szybki spacer, konkretna rada i detal rozmowy. Entuzjazm nie może ukryć ceny, stanu nośnika ani nieaktualnego adresu.",
@@ -7249,7 +7336,7 @@
           "chief": {
             "kicker": "EDITOR-IN-CHIEF / ROWKI + PELOTON",
             "title": "A human sets the direction.",
-            "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-in-chief.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+            "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-in-chief.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
             "portraitAlt": "Illustrated portrait of the editor-in-chief of Rowki and Peloton.",
             "description": "The stories begin with what I want to hear, investigate or challenge. I choose each issue’s theme, approve ideas and arguments, edit the features, decide what gets published and write every editor’s letter. Five editorial agents help me work through sources, data, discographies and community debates, then shape them into first drafts. They sometimes suggest a lead of their own, but the final decision is always mine."
           },
@@ -7265,7 +7352,7 @@
               "number": "01",
               "name": "Jan Urbaniak",
               "role": "EQUIPMENT / HISTORY",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-jan-urbaniak.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-jan-urbaniak.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Jan Urbaniak, a fictional Rowki equipment editor.",
               "character": "An engineer who never mistakes a price tag for a parameter. He strips legends down to patents, mechanics and use conditions.",
               "voice": "Technical detail, dry wit and an allergy to “audiophile” when no mechanism or measurement follows.",
@@ -7277,7 +7364,7 @@
               "number": "02",
               "name": "Marta Sobczak",
               "role": "MARKET / PRESSING PLANTS",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-marta-sobczak.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-marta-sobczak.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Marta Sobczak, a fictional Rowki music-market reporter.",
               "character": "She follows the money, the pressing queue and the return rate. The vinyl revival is measured in quality and failure cost as well as sales.",
               "voice": "A cool number meets cultural observation. She cuts through nostalgia without mocking the need to own a physical object.",
@@ -7289,7 +7376,7 @@
               "number": "03",
               "name": "Paweł Rzepecki",
               "role": "LISTENING / ALBUM FORM",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-pawel-rzepecki.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-pawel-rzepecki.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Paweł Rzepecki, a fictional Rowki music critic.",
               "character": "A formalist with no patience for empty virtuosity. He asks what a minute does to the album’s tension, not how many notes it required.",
               "voice": "A dense, rhythmic essay grounded in close listening. Every adjective must point to an audible moment.",
@@ -7301,7 +7388,7 @@
               "number": "04",
               "name": "Anna Krawczyk",
               "role": "ARTISTS / SCENE",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-anna-krawczyk.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-anna-krawczyk.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Anna Krawczyk, a fictional Rowki music-profile writer.",
               "character": "She does not write obituaries to order for a fandom. She asks what in a band was a name, a legal arrangement or a living creative organism.",
               "voice": "Hard chronology, careful quotation and a bold thesis clearly marked as thesis. No PR anaesthetic.",
@@ -7313,7 +7400,7 @@
               "number": "05",
               "name": "Zofia Lewicka",
               "role": "CITY / RECORD SHOPS",
-              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-zofia-lewicka.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "portrait": "https://lpociask.github.io/peloton/rowki/assets/editor-zofia-lewicka.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "portraitAlt": "Illustrated portrait of Zofia Lewicka, a fictional Rowki city reporter.",
               "character": "A crate digger with a fact-checker’s reflex. A good shop is defined by honest grading, not a wall of rare sleeves.",
               "voice": "A brisk walk, practical advice and one telling conversational detail. Enthusiasm may not hide price, condition or an outdated address.",
@@ -7327,10 +7414,10 @@
         {
           "id": "rowki-03",
           "number": "03",
-          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-03-audiophiles-listening.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 57,
@@ -7352,8 +7439,8 @@
                 "pl": 11,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "TEMAT NUMERU / LUDZIE I SŁUCHANIE",
@@ -7394,7 +7481,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Starsza kobieta z zamkniętymi oczami słucha obok gramofonu; łuki, kropki i pojedyncza linia obrazują wybrane motywy muzyki.",
                         "caption": "Łuki i kropki to metafora uwagi. Wskazówka może otworzyć muzykę, ale może też podpowiedzieć oczekiwaną odpowiedź.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -7449,7 +7536,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Troje słuchaczy z notatnikami siedzi przed zasłoną ukrywającą sprzęt; czwarta osoba obsługuje urządzenie z boku pokoju.",
                         "caption": "Wyobrażona scena porównania bez widocznych marek. Samo zasłonięcie sprzętu nie zastępuje wyrównania poziomów i pozostałych warunków próby.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -7486,7 +7573,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Starsza kobieta trzyma dwie niepodpisane okładki i robi odręczne notatki przy grającym gramofonie.",
                         "caption": "Notatnik pomaga nazwać obserwację. Nie musi zostać na stole do końca wieczoru: po porównaniu wolno po prostu słuchać.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -7599,7 +7686,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An older woman listens with her eyes closed beside a turntable; arcs, dots and a single line suggest individual musical motifs.",
                         "caption": "Arcs and dots are a metaphor for attention. A hint can open up the music, but it can also suggest the expected answer.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -7654,7 +7741,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Three listeners with notebooks sit before a curtain concealing equipment; a fourth person operates a device at the side of the room.",
                         "caption": "An imagined comparison without visible brands. Concealing equipment alone cannot replace level matching and the other conditions of a fair test.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -7691,7 +7778,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-hearing-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An older woman holds two unlabelled sleeves and makes handwritten notes beside a playing turntable.",
                         "caption": "A notebook helps put an observation into words. It need not stay on the table all evening: after comparing, you can simply listen.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -7774,8 +7861,8 @@
                 "pl": 12,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "TECHNIKA / AKUSTYKA",
@@ -7834,7 +7921,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dwie osoby przestawiają kolumnę na podstawce i fotel; na podłodze widać znaczniki z taśmy oraz miarkę.",
                         "caption": "Mały ruch może zmienić warunki odsłuchu. Oznaczenie pozycji pozwala wrócić do punktu wyjścia zamiast porównywać ustawienie z pamięcią.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -7871,7 +7958,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kobieta odsuwa grubą zasłonę przy dużym oknie; w salonie stoją dwie kolumny, sofa i stolik na dywanie, a kolorowe fale są metaforą odbić.",
                         "caption": "Tkaniny są częścią pokoju, nie uniwersalną receptą na bas. Narysowane pasma są metaforą odbić, a nie dowodem skuteczności tej zasłony.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -7921,7 +8008,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dwie osoby siedzą przy laptopie z uproszczonymi krzywymi; mikrofon na statywie stoi między sofą a kolumnami, a kobieta wskazuje fotel.",
                         "caption": "Pomiar ma pomóc w decyzji o pokoju, nie przejąć nad nim władzę. Krzywe na ilustracji są symboliczne; nie przedstawiają wyniku rzeczywistego pomiaru ani korekcji DSP.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8037,7 +8124,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Two people reposition a speaker on its stand and an armchair; masking-tape marks and a tape measure lie on the floor.",
                         "caption": "A small move can change listening conditions. Marking positions lets you return to the baseline instead of comparing an arrangement with a memory.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8074,7 +8161,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A woman draws back a heavy curtain beside a large window; two speakers, a sofa and a table on a rug share the room, with coloured waves metaphorically suggesting reflections.",
                         "caption": "Textiles belong to the room; they are not a universal bass remedy. The drawn bands are a metaphor for reflections, not evidence of this curtain's performance.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8124,7 +8211,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-room-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Two people study simplified curves on a laptop; a microphone stands between the sofa and speakers while the woman points towards an armchair.",
                         "caption": "A measurement should inform a decision about the room, not take control of it. These symbolic curves are not results from an actual measurement or DSP correction.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8192,8 +8279,8 @@
                 "pl": 12,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "WINYL / WYDANIA",
@@ -8252,7 +8339,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dłoń trzyma lupę nad wewnętrznym pierścieniem winylu, tuż przy czerwonej etykiecie; krążek leży na jasnej tkaninie pod lampą.",
                         "caption": "Szukamy informacji przy etykiecie, nie wróżby z rocznika. Ilustracja pokazuje miejsce oględzin; nie odtwarza oznaczeń żadnego konkretnego wydania.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8302,7 +8389,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Inżynier pracuje przy nacinaniu dysku w wyobrażonej pracowni; obok stoją magnetofon szpulowy i konsoleta ze wskaźnikami.",
                         "caption": "Nacięcie jest etapem pracy, nie synonimem całej produkcji. Ta wyobrażona pracownia nie dokumentuje procesu żadnego omawianego wydania.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8339,7 +8426,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mężczyzna ogląda winyl pod bocznym światłem lampy, trzymając go za zewnętrzne obrzeże; na blacie leżą okładka, koperta i ściereczka.",
                         "caption": "Zanim porównasz rodowody, sprawdź konkretne egzemplarze. Oględziny pomagają opisać stan, ale nie zastępują odsłuchu i nie ujawniają każdego problemu.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8475,7 +8562,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A hand holds a magnifying glass over the vinyl's inner ring beside its red label; the record rests on pale fabric under a lamp.",
                         "caption": "Look beside the label for information, not a prophecy based on age. The illustration locates the area to inspect; it reproduces no particular release's markings.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8525,7 +8612,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An engineer works at a disc-cutting lathe in an imagined workshop, with a reel-to-reel tape machine and a console beside him.",
                         "caption": "Cutting is one production stage, not a synonym for the whole process. This imagined workshop does not document the making of any release discussed here.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8562,7 +8649,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-pressings-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A man inspects vinyl under angled lamplight while holding its outer rim; the sleeve, inner sleeve and a cloth rest on the counter.",
                         "caption": "Before comparing pedigrees, inspect the actual copies. Visual examination helps describe condition, but cannot replace playback or reveal every problem.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8650,8 +8737,8 @@
                 "pl": 11,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "SŁUCHANIE / POZA DEMO",
@@ -8710,7 +8797,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Anonimowy czteroosobowy zespół podczas próby: wokalistka, gitarzysta, basistka i perkusista; nad nimi biegną kolorowe pasma dźwięku.",
                         "caption": "Wyobrażona próba anonimowego zespołu — nie portret żadnej opisywanej grupy. Energia, tarcie i wspólny puls nie muszą układać się w pokazową gładkość.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8747,7 +8834,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mężczyzna słucha przy gramofonie; nad płytą rozchodzą się gęste granatowe wstęgi, jasna linia i drobne koralowe kształty.",
                         "caption": "Wstęgi i ziarno są metaforą gęstej faktury nagrania, nie wykresem konkretnego albumu. Nie każdą szorstkość trzeba wygładzać.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8797,7 +8884,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Troje przyjaciół siedzi na sofie i dywanie, wybierając płytę z koralową okładką; obok stoi niewielki zestaw stereo.",
                         "caption": "Najciekawszy rezultat ulepszenia zestawu: więcej powrotów do muzyki i więcej cudzych propozycji. Repertuar nie musi zdawać egzaminu ze sprzętu.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -8927,7 +9014,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An anonymous four-piece band rehearses: a singer, guitarist, bassist and drummer, with coloured sound bands above them.",
                         "caption": "An imagined rehearsal by an anonymous band, not a portrait of any group discussed here. Energy, friction and a shared pulse need not become showroom smoothness.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -8964,7 +9051,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A man listens beside a turntable; dense navy ribbons, a pale line and small coral shapes spread above the record.",
                         "caption": "Ribbons and grain are a metaphor for dense recorded texture, not a graph of a particular album. Not every rough edge needs smoothing.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9014,7 +9101,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-music-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Three friends sit on a sofa and rug choosing a record with a coral sleeve, beside a modest stereo system.",
                         "caption": "The most interesting upgrade result: more returns to music and more suggestions from other people. The repertoire need not pass an equipment test.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9096,8 +9183,8 @@
                 "pl": 11,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "ESEJ / WSPÓLNY POKÓJ",
@@ -9156,7 +9243,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mężczyzna przesuwa lekki fotel, a kobieta wskazuje miejsce obok regału i kolumny; w pokoju pozostają sofa, stół i przejście.",
                         "caption": "Ustawienie można uzgodnić, a lekki fotel czasem przestawić. Geometria odsłuchu nie powinna usuwać z planu pozostałych użytkowników pokoju.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -9180,7 +9267,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Cztery osoby wybierają płytę przy niskim stoliku; jedna trzyma okładkę, a mężczyzna z drugiej strony sięga do pokrętła wzmacniacza.",
                         "caption": "Wspólny wybór nie wymaga wspólnego słownika zachwytu. Goście mogą przynieść własną płytę, a pokrętło głośności nie musi mieć właściciela honorowego.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -9230,7 +9317,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Mężczyzna słucha muzyki w słuchawkach w fotelu, a kobieta czyta przy stole; wymieniają spokojne spojrzenie we wspólnym salonie.",
                         "caption": "Czas osobno też należy do wspólnego życia. Słuchawki i książka nie oznaczają nieudanej pasji ani nieudanego spotkania.",
                         "credit": "ILUSTRACJA AI — ROWKI STUDIO / OPENAI",
@@ -9349,7 +9436,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-02.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-02.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A man moves a light armchair while a woman points beside a bookcase and speaker; the sofa, dining table and walking space remain part of the room.",
                         "caption": "An arrangement can be agreed, and a light chair can sometimes move. Listening geometry should not erase the room's other users from the plan.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9373,7 +9460,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-03.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-03.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Four people choose a record around a low table; one holds a sleeve while a man across from her reaches for the amplifier's knob.",
                         "caption": "Choosing together does not require identical words of praise. Guests can bring their own record, and the volume knob needs no honorary owner.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9423,7 +9510,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-01.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-03-together-01.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A man listens through headphones in an armchair while a woman reads at a table; they exchange a relaxed glance in their shared living room.",
                         "caption": "Time apart also belongs to a shared life. Headphones and a book need not mean a failed hobby or a failed evening together.",
                         "credit": "AI ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9492,10 +9579,10 @@
         {
           "id": "rowki-02",
           "number": "02",
-          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover-02-turntable-battle-diagonal.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 56,
@@ -9517,8 +9604,8 @@
                 "pl": 11,
                 "en": 11
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "TEMAT OKŁADKOWY / SYSTEM",
@@ -9590,7 +9677,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-service.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-service.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Otwarty klasyczny wzmacniacz stoi na stole serwisowym obok miernika, części i dokumentacji.",
                         "caption": "Patyna nie jest diagnozą. Wartość starego sprzętu zaczyna się od stanu konkretnego egzemplarza i jakości naprawy.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -9614,7 +9701,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-room.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-room.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Kolumny stoją w dwóch ustawieniach pokoju, a abstrakcyjne fale pokazują odbicia i węzły basu.",
                         "caption": "Pokój potrafi zmienić więcej niż kolejna wymiana elektroniki. Pomiary nie odbierają muzyce charakteru — odbierają alibi złemu ustawieniu.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -9664,7 +9751,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-hybrid.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-hybrid.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Klasyczny wzmacniacz, współczesne monitory, mały streamer i gramofon z nową wkładką tworzą jeden system.",
                         "caption": "Rozsądny pierwszy zestaw nie musi dochować wierności żadnej epoce. Każdy element powinien rozwiązywać konkretny problem.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -9794,7 +9881,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-service.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-service.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An open classic amplifier sits on a service bench beside a meter, components and documentation.",
                         "caption": "Patina is not a diagnosis. The value of old equipment begins with the condition of the actual unit and the quality of its repair.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9818,7 +9905,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-room.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-room.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Loudspeakers occupy two positions in one room while abstract waves reveal reflections and bass nodes.",
                         "caption": "The room can change more than another electronics swap. Measurement does not remove character from music; it removes the alibi from poor placement.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9868,7 +9955,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-hybrid.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-old-vs-new-detail-hybrid.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A classic amplifier, modern monitors, a small streamer and a turntable with a new cartridge form one system.",
                         "caption": "A sensible first system owes loyalty to no decade. Every component should solve a specific problem.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -9937,8 +10024,8 @@
                 "pl": 11,
                 "en": 11
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "SPRZĘT / HISTORIA",
@@ -9979,7 +10066,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-dl103.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-dl103.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Techniczna wkładka MC pracuje nad powiększonym rowkiem płyty w otoczeniu narzędzi radiowych.",
                         "caption": "DL-103 wyrosła z pracy, nie z nostalgii. Jej radiowe pochodzenie nadal widać w wymaganiach dotyczących nacisku, ramienia i wzmocnienia.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10021,7 +10108,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-pcm.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-pcm.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Profesjonalna maszyna radiowa, nośnik danych i wczesny odtwarzacz cyfrowy łączą się w przepływ sygnału.",
                         "caption": "Denon nie czekał na płytę CD, żeby pracować z cyfrą. Historia komercyjnego PCM jest wcześniejsza i mniej uporządkowana niż jubileuszowe osie czasu.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10058,7 +10145,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-home.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-home.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Klasyczny zestaw stereo, amplituner wielokanałowy i głośniki sieciowe współdzielą domową przestrzeń.",
                         "caption": "Współczesny Denon sprzedaje kilka definicji hi-fi naraz. Integracja daje wygodę, ale serwer i aplikacja stają się częścią urządzenia.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10184,7 +10271,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-dl103.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-dl103.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A technical MC cartridge works above a magnified record groove among broadcast tools.",
                         "caption": "The DL-103 grew from work, not nostalgia. Its broadcast origin remains visible in its requirements for force, arm matching and gain.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10226,7 +10313,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-pcm.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-pcm.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A professional broadcast machine, data carrier and early digital player are joined by one signal path.",
                         "caption": "Denon did not wait for CD before working in digital. Commercial PCM began earlier and less neatly than an anniversary timeline suggests.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10263,7 +10350,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-home.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-denon-detail-home.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A classic stereo system, multichannel receiver and network speakers share a domestic space.",
                         "caption": "Modern Denon sells several definitions of hi-fi at once. Integration brings convenience, while the server and app become parts of the machine.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10359,8 +10446,8 @@
                 "pl": 10,
                 "en": 10
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "KOLEKCJA / DOM",
@@ -10403,7 +10490,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-shelf-load.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-shelf-load.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Płyty stoją pionowo w podzielonym regale, którego konstrukcja przenosi skupiony ciężar i jest zakotwiona.",
                         "caption": "Kolekcja jest ciężkim, skupionym obciążeniem. Najpierw nośność, brak ugięcia i stabilność mebla; dopiero potem fornir.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10433,7 +10520,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-climate.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-climate.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pokój dzieli się na stabilną strefę przechowywania oraz obszary zagrożone słońcem, grzejnikiem, wilgocią i wyciekiem.",
                         "caption": "Płyta reaguje na temperaturę, wilgoć i ich zmiany. Nie rozpoznaje ceny regału ani słowa „audiofilski”.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10458,7 +10545,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-sleeves.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-sleeves.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dłonie trzymają czystą płytę za krawędź i wsuwają ją do gładkiej koperty wewnętrznej.",
                         "caption": "Dobra koperta chroni czystą i całkowicie suchą płytę. Zamknięcie brudu albo wilgoci w drogiej folii nie jest konserwacją.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10601,7 +10688,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-shelf-load.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-shelf-load.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Records stand upright in divided shelving whose structure carries concentrated weight and is anchored securely.",
                         "caption": "A collection is a dense, concentrated load. Capacity, resistance to sag and stability come before the veneer.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10630,7 +10717,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-climate.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-climate.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "One room divides into a stable storage zone and areas threatened by sunlight, a radiator, damp and a leak.",
                         "caption": "A record responds to temperature, moisture and fluctuation. It cannot read the price of the cabinet or the word audiophile.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10654,7 +10741,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-sleeves.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-storage-detail-sleeves.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Hands hold a clean record by its edge and slide it into a smooth inert inner sleeve.",
                         "caption": "A good sleeve protects a clean, completely dry record. Sealing dirt or moisture inside expensive plastic is not preservation.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -10765,8 +10852,8 @@
                 "pl": 12,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "TECHNIKA / USTAWIENIE",
@@ -10823,7 +10910,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-alignment.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-alignment.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Wspornik wkładki jest wyrównywany w dwóch punktach szablonu, a ramię zostaje podniesione przed korektą.",
                         "caption": "Wybieramy jedną geometrię i patrzymy na wspornik, nie tylko na obudowę. Igła nie może stać na szablonie podczas przesuwania wkładki.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10853,7 +10940,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-vtf.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-vtf.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Przekrój grotu w rowku zestawiono z precyzyjną wagą siły nacisku i śladem zbyt lekkiego prowadzenia.",
                         "caption": "Najmniejszy nacisk nie jest automatycznie najdelikatniejszy. Mistracking oznacza utratę stabilnego kontaktu ze ścianami rowka.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -10905,7 +10992,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-antiskate.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-antiskate.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Ramię nad modulowanym rowkiem otaczają przeciwne wektory sił bocznych obciążających obie ściany.",
                         "caption": "Antyskating jest przybliżoną kompensacją zmiennych sił, nie magiczną cyfrą na pokrętle i nie lekarstwem na złą geometrię.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -11046,7 +11133,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-alignment.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-alignment.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A cartridge cantilever is aligned at two protractor points and the arm is lifted before correction.",
                         "caption": "Choose one geometry and judge the cantilever, not only the body. Never move the cartridge while the stylus rests on the template.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11076,7 +11163,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-vtf.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-vtf.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A stylus profile in a groove sits beside a precision force gauge and the trace of unstable light tracking.",
                         "caption": "The lowest force is not automatically the gentlest. Mistracking means losing stable contact with the groove walls.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11128,7 +11215,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-antiskate.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-cartridge-detail-antiskate.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Opposing lateral-force vectors surround a tonearm above a modulated groove and its two walls.",
                         "caption": "Anti-skating is an approximate compensation for changing forces, not a magic dial number or a cure for poor geometry.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11226,8 +11313,8 @@
                 "pl": 12,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-hero.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-hero.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "SŁUCHANIE / NORWEGIA",
@@ -11268,7 +11355,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-maximalism.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-maximalism.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pięć abstrakcyjnych postaci gra pośród gęstych rytmicznych figur, ostrych przejść i śladu trąbki.",
                         "caption": "Wczesny Leprous musiał najpierw sprawdzić, ile pomysłów mieści utwór, zanim nauczył się pytać, ile naprawdę powinno zostać.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -11349,7 +11436,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-hidden-complexity.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-hidden-complexity.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pod prostą siatką cztery na cztery pracują polirytmiczne koła, przesunięte akcenty i ukryte mechanizmy.",
                         "caption": "Nowa złożoność nie zawsze stoi na froncie aranżacji. Najpierw działa na ciało, dopiero później daje się policzyć.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -11373,7 +11460,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-five-piece.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-five-piece.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pięć abstrakcyjnych postaci przetwarza jeden szkic kompozycyjny w pięć indywidualnych gestów instrumentalnych.",
                         "caption": "Jeden główny autor nie oznacza pięciu wykonawców bez wpływu. To w napięciu między szkicem a zespołowym wykonaniem powstaje tożsamość Leprous.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -11514,7 +11601,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-maximalism.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-maximalism.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Five abstract performers play amid dense rhythmic figures, sharp turns and the trace of a trumpet.",
                         "caption": "Early Leprous first had to discover how many ideas a song could hold before learning to ask how many truly had to remain.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11595,7 +11682,7 @@
                       "id": "media-1",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-hidden-complexity.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-hidden-complexity.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Polyrhythmic wheels, displaced accents and hidden mechanisms operate beneath a simple four-by-four grid.",
                         "caption": "The newer complexity does not always stand at the front of the arrangement. It acts on the body before it submits to counting.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11619,7 +11706,7 @@
                       "id": "media-2",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-five-piece.jpg?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-02-leprous-detail-five-piece.jpg?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Five abstract figures turn one compositional sketch into five individual instrumental gestures.",
                         "caption": "One principal writer does not mean five performers without agency. Leprous takes shape in the tension between the sketch and the band.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -11728,10 +11815,10 @@
         {
           "id": "rowki-01",
           "number": "01",
-          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+          "coverImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
           "coverImages": {
-            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e"
+            "pl": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+            "en": "https://lpociask.github.io/peloton/rowki/assets/rowki-cover.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2"
           },
           "totalMinutes": {
             "pl": 56,
@@ -11753,8 +11840,8 @@
                 "pl": 11,
                 "en": 11
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-technics.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-technics.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-technics.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-technics.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "SPRZĘT / HISTORIA",
@@ -11795,7 +11882,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-technics-motor.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-technics-motor.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Techniczny przekrój silnika napędu bezpośredniego pod talerzem gramofonu.",
                         "caption": "To, co marketing nazywa charakterem napędu, pod talerzem okazuje się konkretem: łożyskiem, wirnikiem, magnesami i miedzianymi cewkami.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -11976,7 +12063,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-technics-motor.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-technics-motor.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A technical cutaway of a direct-drive motor beneath a turntable platter.",
                         "caption": "What marketing calls drive character becomes something concrete beneath the platter: a bearing, rotor, magnets and copper coils.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -12127,8 +12214,8 @@
                 "pl": 11,
                 "en": 11
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-powrot-winylu.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-powrot-winylu.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-powrot-winylu.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-powrot-winylu.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "ZJAWISKO",
@@ -12187,7 +12274,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-vinyl-pressing.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-vinyl-pressing.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Prasa winylowa ściskająca czerwony placek PVC pomiędzy dwiema metalowymi matrycami.",
                         "caption": "Winylowy rytuał zaczyna się przemysłowo: granulat, temperatura, nacisk, chłodzenie i kontrola, której nie zastąpi naklejka „180 g”.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -12368,7 +12455,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-vinyl-pressing.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-vinyl-pressing.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "A vinyl press compressing a red PVC puck between two metal stampers.",
                         "caption": "The vinyl ritual begins as industry: pellets, heat, pressure, cooling and quality control that no “180 g” sticker can replace.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -12501,8 +12588,8 @@
                 "pl": 11,
                 "en": 12
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-prog.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-prog.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-prog.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-prog.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "SŁUCHANIE / PROG",
@@ -12584,7 +12671,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-prog-tools.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-prog-tools.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Taśma magnetofonowa łączy analogowy syntezator i magnetofon z gitarą oraz zestawem perkusyjnym ułożonym w polirytmiczne kręgi.",
                         "caption": "Progres nie mieszka w jednym brzmieniu. Wędruje od taśmy i syntezatora do gitary o rozszerzonym zakresie oraz rytmu, którego nie da się policzyć jednym oddechem.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -12781,7 +12868,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-prog-tools.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-prog-tools.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Magnetic tape links an analogue synthesizer and reel-to-reel machine with a guitar and a drum kit arranged in polyrhythmic circles.",
                         "caption": "Progress does not live in one sound. It travels from tape and synthesizer to extended-range guitar and a rhythm that cannot be counted in a single breath.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -12907,8 +12994,8 @@
                 "pl": 12,
                 "en": 10
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-riverside.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-riverside.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-riverside.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-riverside.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "ESEJ / POLSKA",
@@ -12992,7 +13079,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-riverside-room.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-riverside-room.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Pusta sala prób z mikrofonem, perkusją, zamkniętymi futerałami i czerwonym przewodem prowadzącym do otwartych drzwi.",
                         "caption": "Po ostatniej próbie sprzęt zostaje na miejscu, lecz organizm znika. Pusta sala potrafi powiedzieć o końcu więcej niż komunikat napisany przez prawnika.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -13205,7 +13292,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-riverside-room.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-riverside-room.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "An empty rehearsal room with a microphone, drum kit, closed instrument cases and a red cable leading through an open door.",
                         "caption": "After the final rehearsal, the equipment remains but the organism disappears. An empty room can say more about an ending than a lawyered statement.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
@@ -13345,8 +13432,8 @@
                 "pl": 11,
                 "en": 10
               },
-              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-warszawa.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
-              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-warszawa.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+              "thumbnailImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-warszawa.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
+              "heroImage": "https://lpociask.github.io/peloton/rowki/assets/rowki-warszawa.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
               "content": {
                 "pl": {
                   "category": "PRZEWODNIK / WARSZAWA",
@@ -13431,7 +13518,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-warsaw-crates.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-warsaw-crates.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Dwie osoby przeglądają skrzynki z płytami pod lampą, obok przenośnego gramofonu odsłuchowego.",
                         "caption": "Najlepszy warszawski algorytm rekomendacji ma postać dwóch dłoni, lampy nad ladą i sprzedawcy, który pozwoli obejrzeć płytę bez teatralnego pośpiechu.",
                         "credit": "ILUSTRACJA — ROWKI STUDIO / OPENAI",
@@ -13612,7 +13699,7 @@
                       "id": "media-0",
                       "type": "media",
                       "media": {
-                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-warsaw-crates.png?v=7ddc0f1d28bffc556f796b1e7925decc8ff6ec7e",
+                        "source": "https://lpociask.github.io/peloton/rowki/assets/rowki-detail-warsaw-crates.png?v=55b06b6c8e49e0d45e28c21b31ffa4661286f1c2",
                         "alt": "Two people browse record crates beneath a lamp beside a portable listening turntable.",
                         "caption": "Warsaw’s best recommendation algorithm looks like two hands, a lamp above the counter and a seller who lets you inspect a record without theatrical haste.",
                         "credit": "ILLUSTRATION — ROWKI STUDIO / OPENAI",
